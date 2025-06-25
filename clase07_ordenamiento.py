@@ -16,6 +16,8 @@ if __name__ == "__main__":
   ordenamiento_burbuja(numeros)
   print("despues", numeros)
 
+
+#codigo 2
 lista_a_ordenar = [64,34,25,12,22,11,90]
 print(f"lista original: {lista_a_ordenar}")
 
@@ -46,4 +48,7 @@ assert lista4 == [1,2,2,4,5,5,8], "fallo en caso 4"
 assert ordenamiento_burbuja([]) == []
 assert ordenamiento_burbuja([42]) == [42], "fallo en caso borde"
 
+
 print ("todas las pruebas pasaron")
+print ("fin del programa Sarai Vidaurre")
+
