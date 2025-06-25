@@ -38,3 +38,4 @@ tablero = [
 for fila in tablero:
     print(" | ".join(fila))
     print("-" * 9)
+print ("fin del programa Sarai Vidaurre")
