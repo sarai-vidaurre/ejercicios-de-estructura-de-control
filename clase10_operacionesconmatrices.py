@@ -109,6 +109,7 @@ def probar_suma_diagonal_principal():
     assert sumar_diagonal_principal(m3) == 5  # Solo un elemento en la diagonal
 
     print("¡Pruebas para sumar_diagonal_principal pasaron!")
+    print ("fin del programa Sarai Vidaurre")
 
 # Llamamos a la función para ejecutar las pruebas
 probar_suma_diagonal_principal()
