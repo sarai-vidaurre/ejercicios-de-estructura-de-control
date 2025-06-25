@@ -85,3 +85,4 @@ assert not es_simetrica(no_cuadrada)
 
 print("ejercicio 3: todas las pruebas pasaron")
 print("¡Pruebas para es_simetrica pasaron!")
+print ("fin del programa Sarai Vidaurre")
